@@ -1,0 +1,6 @@
+{
+  "name": "AI Stem Separator",
+  "description": "Flawless real-time audio stem player and splits instrumentals, vocals, drums, and bass with AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

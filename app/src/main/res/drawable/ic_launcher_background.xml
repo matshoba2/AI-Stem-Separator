@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Base Deep Midnight Solid Color -->
+    <path
+        android:fillColor="#0D1013"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Subtle Diagonal Cyan Studio Accent Glow -->
+    <path
+        android:fillColor="#0800F5D4"
+        android:pathData="M0,0 L108,108 L0,108 Z" />
+
+    <!-- Tech-grid background line detail representing studio acoustics -->
+    <path
+        android:pathData="M18,0 L18,102"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M36,0 L36,102"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M54,0 L54,102"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M72,0 L72,102"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M90,0 L90,102"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+
+    <path
+        android:pathData="M0,18 L108,18"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M0,36 L108,36"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M0,54 L108,54"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M0,72 L108,72"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+    <path
+        android:pathData="M0,90 L108,90"
+        android:strokeWidth="0.4"
+        android:strokeColor="#0AFFFFFF" />
+
+</vector>

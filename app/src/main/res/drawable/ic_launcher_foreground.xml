@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Safe Frame (subtle studio design accents) -->
+    <path
+        android:pathData="M30,30 L78,30 A12,12 0 0 1 90,42 L90,66 A12,12 0 0 1 78,78 L30,78 A12,12 0 0 1 18,66 L18,42 A12,12 0 0 1 30,30 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#1EFFFFFF"
+        android:fillColor="#0E000000" />
+
+    <!-- Stem 1: Vocal Fader Bar (Neon Coral) -->
+    <path
+        android:pathData="M32,44 L32,68"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#FFFF4E6E" />
+    <path
+        android:pathData="M32,52 A3,3 0 1 1 32,51.9 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Stem 2: Drum Fader Bar (Citron Gold) -->
+    <path
+        android:pathData="M44,38 L44,68"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#FFFFCE56" />
+    <path
+        android:pathData="M44,46 A3,3 0 1 1 44,45.9 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Stem 3: Bass Fader Bar (Cyber Turquoise) -->
+    <path
+        android:pathData="M56,46 L56,68"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#FF00F5D4" />
+    <path
+        android:pathData="M56,58 A3,3 0 1 1 56,57.9 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Stem 4: Melody Fader Bar (Hyper Purple) -->
+    <path
+        android:pathData="M68,40 L68,68"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeColor="#FF9D4EDD" />
+    <path
+        android:pathData="M68,48 A3,3 0 1 1 68,47.9 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- High-tech Acoustic Waves background detail -->
+    <path
+        android:pathData="M24,36 L28,36"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#40FFFFFF" />
+    <path
+        android:pathData="M80,36 L84,36"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#40FFFFFF" />
+    <path
+        android:pathData="M24,72 L28,72"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#40FFFFFF" />
+    <path
+        android:pathData="M80,72 L84,72"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#40FFFFFF" />
+
+</vector>
